@@ -1,0 +1,14 @@
+*.iml
+*.aab
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+keystore.jks
+keystore.properties
+app/proguard-rules.pro
+fastlane/fastlane.json
+fastlane/report.xml
+.kotlin/
